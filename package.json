@@ -1,0 +1,22 @@
+{
+  "name": "2018-x-mas",
+  "version": "1.0.0",
+  "description": "🎄 Merry X mas!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegeunhyeok/2018-X-Mas.git"
+  },
+  "author": "Leegeunhyeok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leegeunhyeok/2018-X-Mas/issues"
+  },
+  "homepage": "https://github.com/leegeunhyeok/2018-X-Mas#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
